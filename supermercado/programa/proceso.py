@@ -1,0 +1,3 @@
+
+def supermercado():
+    pass
