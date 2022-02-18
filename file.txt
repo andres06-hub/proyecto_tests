@@ -1,0 +1,3 @@
+El objetivo de estos scripts es tener unos programas 
+que se puedad hacer pruebas con valores ramdom, y poder asi validar cualquier
+tipo de erros, en este caso solo se trabajo datos ramdom numbericos integer
