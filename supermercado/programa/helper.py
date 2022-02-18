@@ -2,7 +2,6 @@
 from ast import Num
 from numbers import Number
 
-from numbers import Number
 # Validar si los datos son numericos
 
 import sys

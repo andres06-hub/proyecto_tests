@@ -1,7 +1,5 @@
 
 # Se define la funcion 
-
-
 def supermercado(docenas, precio):
     precio_producto = docenas * precio
     # Si docenas < 3
